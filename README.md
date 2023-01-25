@@ -1,1 +1,1 @@
-# games
+Games for Longfellow students.
