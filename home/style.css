@@ -1,0 +1,26 @@
+span{
+    text-shadow: 2px 2px #328fa8;
+}
+
+.list-sites{
+    width:40%;
+    margin:5%;
+    display:flex;
+    align-self:flex-start;
+
+}
+
+.list-group-item{
+    background-color:black;
+    border-color:#0f0f0f;
+}
+
+.card{
+    background-color:black;
+}
+
+.lists{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+}
